@@ -1,11 +1,4 @@
-document.getElementById('add-money').addEventListener('click',function(){
-    this.classList.add('bg-green-300')
-     document.getElementById('latest-payment').classList.add('hidden')
-     document.getElementById('add-mony-form').classList.remove('hidden')
-   
-    
-    
-})
+
 
 document.getElementById('add-Money-login').addEventListener('click',function(event){
     event.preventDefault();
